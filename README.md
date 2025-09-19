@@ -1,7 +1,7 @@
 <!-- Futuristic Profile README for Muhit Hasan -->
 
 <h1 align="center">⚡ Muhit Hasan Chowdhury ⚡</h1>
-<h3 align="center">CSE Student @ AUST | Future Software Architect</h3>
+<h3 align="center">CSE Student @ AUST | Future Web Developer </h3>
 
 <p align="center">
   🚀 Passionate about <b>building apps, solving problems, and exploring tech frontiers</b>  
@@ -14,8 +14,7 @@
 ## 🛰️ About Me
 - 🎓 **CSE Student** at Ahsanullah University of Science & Technology (AUST), Dhaka  
 - 💡 Exploring futuristic technologies to build **scalable & smart applications**  
-- 🌱 Learning: **Flutter**, **React.js**, **Node.js/Express**, and **Modern Backend**  
-- ⚡ Fun fact: I see debugging as <i>detective work in the digital universe</i> 🕵️‍♂️  
+- 🌱 Learning: **React.js**, **Node.js/Express**, and **Modern Backend**  
 
 ---
 
@@ -44,6 +43,24 @@
 </p>
 
 ---
+
+## 🏆 Achievements & Certifications
+
+### 🚀 Just completed the "Introduction to Shell" course from DataCamp!
+
+This 4-hour journey helped me sharpen my command-line skills and better understand shell scripting fundamentals—an essential tool for data handling and automation.
+
+**🔧 Skills covered:**  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![CommandLine](https://img.shields.io/badge/Command_Line-0078D4?style=for-the-badge&logo=terminal&logoColor=white)  
+
+**📅 Completed on:**  
+![Date](https://img.shields.io/badge/Completed-July_23_2025-blue?style=for-the-badge)  
+
+**🏫 Platform:**  
+![DataCamp](https://img.shields.io/badge/DataCamp-00BFFF?style=for-the-badge&logo=datacamp&logoColor=white)  
+
 
 ## 🌐 Connect With Me  
 
